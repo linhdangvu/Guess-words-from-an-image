@@ -1,0 +1,2 @@
+Link git with the project :
+https://github.com/linhdangvu/Guess-words-from-an-image
